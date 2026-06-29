@@ -45,3 +45,24 @@ practiced with conditional statements and control flow for a strong programming 
 ## 🎯 Purpose
 To strengthen Python fundamentals through hands-on assignments,
 preparing for real-world Data Analytics and automation tasks.
+
+
+
+
+# 🎯 Objective
+
+✔ Strengthen Python Fundamentals
+
+✔ Improve Logic Building
+
+✔ Practice Problem Solving
+
+✔ Build a Foundation for Data Analytics
+
+---
+
+<div align="center">
+
+### 🚀 Learning by Building • Coding • Practicing
+
+</div>
